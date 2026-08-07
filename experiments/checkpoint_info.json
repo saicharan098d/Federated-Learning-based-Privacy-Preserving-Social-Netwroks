@@ -1,0 +1,18 @@
+{
+  "config": {
+    "dataset": "facebook",
+    "num_clients": 3,
+    "num_rounds": 5,
+    "local_epochs": 2,
+    "batch_size": 32,
+    "hidden_dim": 32,
+    "learning_rate": 0.01,
+    "use_cuda": false,
+    "verbose": true
+  },
+  "final_accuracy": 0.9099999999999999,
+  "final_loss": 0.35,
+  "total_rounds": 5,
+  "training_time": 1.5035467147827148,
+  "timestamp": "2026-04-04 01:31:43"
+}

@@ -1,0 +1,13 @@
+{
+  "num_nodes": 1000,
+  "num_edges": 2991,
+  "num_classes": 4,
+  "in_dim": 64,
+  "num_clients": 3,
+  "label_classes": [
+    "0",
+    "1",
+    "2",
+    "3"
+  ]
+}
